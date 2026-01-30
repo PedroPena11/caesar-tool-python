@@ -31,7 +31,7 @@ $$D_n(x) = (x - n) \pmod{26}$$
 
 2.  **Ejecutar la herramienta:**
     ```
-    python cesar.py
+    python caesar.py
     ```
 ---
 
